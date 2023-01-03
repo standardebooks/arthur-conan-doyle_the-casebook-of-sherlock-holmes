@@ -102,18 +102,18 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="preface.xhtml"/>
-		<itemref idref="mazarin-stone.xhtml"/>
-		<itemref idref="thor-bridge.xhtml"/>
-		<itemref idref="creeping-man.xhtml"/>
-		<itemref idref="sussex-vampire.xhtml"/>
-		<itemref idref="three-garridebs.xhtml"/>
 		<itemref idref="illustrious-client.xhtml"/>
 		<itemref idref="blanched-soldier.xhtml"/>
-		<itemref idref="retired-colourman.xhtml"/>
+		<itemref idref="mazarin-stone.xhtml"/>
 		<itemref idref="three-gables.xhtml"/>
+		<itemref idref="sussex-vampire.xhtml"/>
+		<itemref idref="three-garridebs.xhtml"/>
+		<itemref idref="thor-bridge.xhtml"/>
+		<itemref idref="creeping-man.xhtml"/>
 		<itemref idref="lions-mane.xhtml"/>
 		<itemref idref="veiled-lodger.xhtml"/>
 		<itemref idref="scoscombe-old-place.xhtml"/>
+		<itemref idref="retired-colourman.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
