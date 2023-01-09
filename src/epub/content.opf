@@ -26,18 +26,23 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Case-Book of Sherlock Holmes</dc:title>
-		<meta property="file-as" refines="#title">Case-Book of Sherlock Holmes, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:title id="title">The Casebook of Sherlock Holmes</dc:title>
+		<meta property="file-as" refines="#title">Casebook of Sherlock Holmes, The</meta>
+		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Detective and mystery stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Casebook of Sherlock Holmes&lt;/i&gt;, published in 1927, is the final collection of &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; stories published in book form. All of the stories included in the collection previously appeared in &lt;i&gt;The Strand Magazine&lt;/i&gt; between October 1921 and April 1927. Most of the stories purport to be the accounts given by &lt;abbr&gt;Dr.&lt;/abbr&gt; John Watson of the more remarkable cases in which his friend &lt;abbr&gt;Mr.&lt;/abbr&gt; Sherlock Holmes becomes involved in his role as a consulting detective.&lt;/p&gt;
+			&lt;p&gt;Three stories of the collection are not narrated by Dr Watson, unlike most Sherlock Holmes stories. “The Adventure of the Mazarin Stone” is narrated in the third person, since it was adapted from a stage play in which Watson hardly appeared. “The Adventure of the Blanched Soldier” and “The Adventure of the Lion's Mane” are both narrated by Holmes himself, the latter being set after his retirement.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks01/0100291h.html</dc:source>
@@ -49,7 +54,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-case-book-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -62,8 +67,8 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<dc:contributor id="producer-1">Marshall Clow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Clow, Marshall</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
