@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-case-book-of-sherlock-holmes</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -32,50 +32,54 @@
 		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Detective and mystery stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh2008109474</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85037269</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The world’s first consulting detective and his companion investigate further crimes and mysteries.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Casebook of Sherlock Holmes&lt;/i&gt;, published in 1927, is the final collection of &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; stories published in book form. All of the stories included in the collection previously appeared in &lt;i&gt;The Strand Magazine&lt;/i&gt; between October 1921 and April 1927. Most of the stories purport to be the accounts given by &lt;abbr&gt;Dr.&lt;/abbr&gt; John Watson of the more remarkable cases in which his friend &lt;abbr&gt;Mr.&lt;/abbr&gt; Sherlock Holmes becomes involved in his role as a consulting detective.&lt;/p&gt;
-			&lt;p&gt;Three stories of the collection are not narrated by Dr Watson, unlike most Sherlock Holmes stories. “The Adventure of the Mazarin Stone” is narrated in the third person, since it was adapted from a stage play in which Watson hardly appeared. “The Adventure of the Blanched Soldier” and “The Adventure of the Lion's Mane” are both narrated by Holmes himself, the latter being set after his retirement.&lt;/p&gt;
+			&lt;p&gt;Three stories of the collection are not narrated by Dr. Watson, unlike most Sherlock Holmes stories. “The Adventure of the Mazarin Stone” is narrated in the third person, since it was adapted from a stage play in which Watson hardly appeared. “The Adventure of the Blanched Soldier” and “The Adventure of the Lion&apos;s Mane” are both narrated by Holmes himself, the latter being set after his retirement.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://gutenberg.net.au/ebooks01/0100291h.html</dc:source>
+		<dc:source>https://gutenberg.net.au/ebooks01/0100291.txt</dc:source>
 		<dc:source>https://archive.org/details/casebookofsherlo0000doyl_q8r4</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Case-Book_of_Sherlock_Holmes</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-case-book-of-sherlock-holmes</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-casebook-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
 		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Constable</dc:contributor>
+		<meta property="file-as" refines="#artist">Constable, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80007977</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Col Choat</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Choat, Col</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Marshall Clow</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Clow, Marshall</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:url.homepage" refines="#producer-1">mailto:mclow.lists@gmail.com</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
