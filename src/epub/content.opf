@@ -49,7 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks01/0100291.txt</dc:source>
 		<dc:source>https://archive.org/details/casebookofsherlo0000doyl_q8r4</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Several words (such as 'letter-basket') had the internal hypens removed in the Gutenberg page scans; probably because the hyphen fell at the end of a line. These have been restored.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Casebook_of_Sherlock_Holmes</meta>
