@@ -20,3 +20,22 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+}
+
+#illustrious-client blockquote:nth-of-type(2){
+	font-variant: small-caps;
+	text-align: center;
+}
+
+#three-garridebs blockquote p{
+	text-align: center;
+	text-indent: 0;
+}
+
+#three-garridebs blockquote p:first-child{
+	font-variant: small-caps;
+}
