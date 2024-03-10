@@ -103,7 +103,7 @@
 		<item href="text/the-adventure-of-the-lions-mane.xhtml" id="the-adventure-of-the-lions-mane.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-mazarin-stone.xhtml" id="the-adventure-of-the-mazarin-stone.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-retired-colourman.xhtml" id="the-adventure-of-the-retired-colourman.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-scoscombe-old-place.xhtml" id="the-adventure-of-the-scoscombe-old-place.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-shoscombe-old-place.xhtml" id="the-adventure-of-shoscombe-old-place.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-sussex-vampire.xhtml" id="the-adventure-of-the-sussex-vampire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-three-gables.xhtml" id="the-adventure-of-the-three-gables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-three-garridebs.xhtml" id="the-adventure-of-the-three-garridebs.xhtml" media-type="application/xhtml+xml"/>
@@ -128,7 +128,7 @@
 		<itemref idref="the-adventure-of-the-creeping-man.xhtml"/>
 		<itemref idref="the-adventure-of-the-lions-mane.xhtml"/>
 		<itemref idref="the-adventure-of-the-veiled-lodger.xhtml"/>
-		<itemref idref="the-adventure-of-the-scoscombe-old-place.xhtml"/>
+		<itemref idref="the-adventure-of-shoscombe-old-place.xhtml"/>
 		<itemref idref="the-adventure-of-the-retired-colourman.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
